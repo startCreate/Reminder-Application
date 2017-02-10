@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="search_title">Search</string>
+
+    <string name="menu_item_notification">Календарь</string>
+    <string name="menu_item_notification2">Заметки</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+    <string name="tab_item_history">History</string>
+    <string name="tab_item_ideas">Calendar</string>
+    <string name="tab_item_todo">TODO</string>
+    <string name="tab_item_birthdays">Birthdays</string>
+
+</resources>
